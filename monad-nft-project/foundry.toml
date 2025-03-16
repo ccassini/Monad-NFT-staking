@@ -1,0 +1,8 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+# Monad Testnet Configuration
+eth-rpc-url = "https://testnet-rpc.monad.xyz"
+chain_id = 10143 
