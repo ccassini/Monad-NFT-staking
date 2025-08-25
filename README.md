@@ -55,7 +55,7 @@ This is a frontend application for staking NFTs on the Monad Testnet. It allows 
 - Verify that you have MON tokens for gas fees.
 - Ensure that the contract addresses in the `.env` file are correct.
 
-## Development
+## Development  /
 
 This project uses:
 - React
